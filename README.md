@@ -1,2 +1,13 @@
-# real_time_analytics
-Projeto promovido pelo professor Fernando Amaral com o intuito de desenvolver um sistema piloto de emissão de alertas climáticas em tempo real.
+# Introdução
+
+Bootcamp promovido pelo professor Fernando Amaral disponível através deste link¹, com o objetivo de disseminar conhecimentos na área de engenharia de dados. O projeto consiste na elaboração de um 
+
+# Metodologia
+
+
+
+# Resultados
+
+
+
+# Referências
